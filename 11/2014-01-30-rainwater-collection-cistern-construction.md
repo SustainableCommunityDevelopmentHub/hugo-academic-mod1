@@ -1,0 +1,18 @@
+---
+title: RAINWATER COLLECTION – CISTERN CONSTRUCTION
+author: admin
+type: post
+date: 2014-01-30T02:31:33+00:00
+excerpt: http://www.youtube.com/watch?v=besl1h6t6FA
+url: /2014/01/30/rainwater-collection-cistern-construction/
+ts_article_views:
+  - "304"
+  - "304"
+  - "304"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2017/12/12/8704/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/8704-150x150.jpg" alt="Our Complete Rain Water System Explained" title="Our Complete Rain Water System Explained" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Our Complete Rain Water System Explained</span></a></li><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li><li><a href="https://scdhub.org/2017/12/10/cold-water-cisterns/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/cold-water-cisterns-1-150x150.jpg" alt="Cold water cisterns" title="Cold water cisterns" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Cold water cisterns</span></a></li><li><a href="https://scdhub.org/2017/08/11/kombucha-social-venture-health-beverage-company-community-success-prototype/"    ><img src="https://scdhub.org/wp-content/uploads/2017/08/kombucha-social-venture-health-beverage-company-community-success-prototype-150x150.jpg" alt="Kombucha Social Venture Health Beverage Company Community Success Prototype" title="Kombucha Social Venture Health Beverage Company Community Success Prototype" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Kombucha Social Venture Health Beverage Company&hellip;</span></a></li><li><a href="https://scdhub.org/2017/12/10/gabon-advanced-school-of-theology-the-water-cistern-is-done/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/gabon-advanced-school-of-theolog-150x150.jpg" alt="Gabon Advanced School of Theology &#8211; The Water Cistern is Done !" title="Gabon Advanced School of Theology &#8211; The Water Cistern is Done !" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Gabon Advanced School of Theology &#8211; The Water&hellip;</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/besl1h6t6FA?feature=oembed] 
+
+This is one of four 5500 gallon cisterns being constructed by Innovative Water Solutions for a rainwater collection system in Denton, TX. Rainwater is direct&#8230;

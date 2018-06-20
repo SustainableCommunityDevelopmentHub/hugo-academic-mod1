@@ -1,0 +1,16 @@
+---
+title: ABC News clip on TeleMedicine
+author: admin
+type: post
+date: 2008-01-30T02:24:47+00:00
+excerpt: https://www.youtube.com/watch?v=LmZ1VolViJQ
+url: /2008/01/30/abc-news-clip-on-telemedicine/
+ts_article_views:
+  - "223"
+  - "223"
+  - "223"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/20/how-to-fix-a-running-toilet-3-most-common-problems/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/how-to-fix-a-running-toilet-3-mo-150x150.jpg" alt="How to Fix a Running Toilet &#8211; 3 Most Common Problems" title="How to Fix a Running Toilet &#8211; 3 Most Common Problems" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">How to Fix a Running Toilet &#8211; 3 Most Common Problems</span></a></li><li><a href="https://scdhub.org/2017/10/01/why-i-left-the-hospital-system-and-started-working-in-telemedicine/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Why I Left the Hospital System and Started Working in Telemedicine" title="Why I Left the Hospital System and Started Working in Telemedicine" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Why I Left the Hospital System and Started Working&hellip;</span></a></li><li><a href="https://scdhub.org/2017/06/11/masanobu-fukuoka-how-to-make-clay-seed-balls/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/Screen-Shot-2017-06-10-at-8.22.36-PM-150x150.png" alt="Masanobu Fukuoka How to Make Clay Seed Balls" title="Masanobu Fukuoka How to Make Clay Seed Balls" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Masanobu Fukuoka How to Make Clay Seed Balls</span></a></li><li><a href="https://scdhub.org/2017/06/11/royate-hill-community-orchard-permaculture-allotment-bristol-uk/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/royate-hill-community-orchard-038-permaculture-allotment-bristol-uk-150x150.jpg" alt="Royate Hill Community Orchard &#038; Permaculture Allotment, Bristol, UK" title="Royate Hill Community Orchard &#038; Permaculture Allotment, Bristol, UK" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Royate Hill Community Orchard &#038; Permaculture&hellip;</span></a></li><li><a href="https://scdhub.org/2017/06/11/ithaca-hours-local-currency/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/ithaca-hours-local-currency-150x150.jpg" alt="Ithaca Hours: Local Currency" title="Ithaca Hours: Local Currency" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Ithaca Hours: Local Currency</span></a></li><li><a href="https://scdhub.org/2017/07/30/nuclear-testing-footage-music-by-gigi-shibabaw-washintu/"    ><img src="https://scdhub.org/wp-content/uploads/2017/07/nuclear-testing-footage-music-by-gigi-shibabaw-washintu-150x150.jpg" alt="Cultuer- Music &#8211; Ethiopian (Music by Gigi Shibabaw-Washintu)" title="Cultuer- Music &#8211; Ethiopian (Music by Gigi Shibabaw-Washintu)" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Cultuer- Music &#8211; Ethiopian (Music by Gigi&hellip;</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/LmZ1VolViJQ?feature=oembed]

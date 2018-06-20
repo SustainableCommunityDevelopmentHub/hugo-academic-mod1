@@ -1,0 +1,19 @@
+---
+title: Renewable Energy Group Formally Opens Mason City, IA Biodiesel Plant
+author: admin
+type: post
+date: 2008-01-30T02:25:25+00:00
+excerpt: https://www.youtube.com/watch?v=l0XUKs1KCrE
+url: /2008/01/30/renewable-energy-group-formally-opens-mason-city-ia-biodiesel-plant/
+featured_image: /wp-content/uploads/2017/05/renewable-energy-group-formally.jpg
+ts_article_views:
+  - "336"
+  - "336"
+  - "336"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2017/12/12/rainwater-harvesting-combined-with-slow-sand-filter/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/rainwater-harvesting-combined-wi-150x150.jpg" alt="rainwater harvesting combined with slow sand filter" title="rainwater harvesting combined with slow sand filter" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">rainwater harvesting combined with slow sand filter</span></a></li><li><a href="https://scdhub.org/2017/12/26/1m-gallons-of-untreated-wastewater-spills-in-elizabeth-city/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/1m-gallons-of-untreated-wastewater-spills-in-elizabeth-city-150x150.jpg" alt="1M gallons of untreated wastewater spills in Elizabeth City" title="1M gallons of untreated wastewater spills in Elizabeth City" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">1M gallons of untreated wastewater spills in Elizabeth City</span></a></li><li><a href="https://scdhub.org/2017/06/20/what-is-leed-leadership-in-energy-and-environmental-design/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/what-is-leed-leadership-in-energy-and-environmental-design-150x150.jpg" alt="What is LEED? Leadership in Energy and Environmental Design." title="What is LEED? Leadership in Energy and Environmental Design." width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">What is LEED? Leadership in Energy and Environmental Design.</span></a></li><li><a href="https://scdhub.org/2017/12/12/8704/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/8704-150x150.jpg" alt="Our Complete Rain Water System Explained" title="Our Complete Rain Water System Explained" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Our Complete Rain Water System Explained</span></a></li><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/l0XUKs1KCrE?feature=oembed] 
+
+Renewable Energy Group, Inc. (NASDAQ: REGI) celebrated the opening of its 30-million gallon biodiesel refinery in Mason City, Iowa and announced a $20 millio&#8230;

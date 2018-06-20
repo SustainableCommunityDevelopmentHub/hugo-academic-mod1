@@ -1,0 +1,18 @@
+---
+title: Malawi Villages make bricks for schools
+author: admin
+type: post
+date: 2008-01-30T02:26:21+00:00
+excerpt: https://www.youtube.com/watch?v=Eu6QmTZolu4
+url: /2008/01/30/malawi-villages-make-bricks-for-schools/
+ts_article_views:
+  - "306"
+  - "306"
+  - "306"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li><li><a href="https://scdhub.org/2017/12/11/halogen-to-led-lighting-upgrade/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/halogen-to-led-lighting-upgrade-1-150x150.jpg" alt="Halogen to LED Lighting Upgrade" title="Halogen to LED Lighting Upgrade" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Halogen to LED Lighting Upgrade</span></a></li><li><a href="https://scdhub.org/2017/07/24/astounding-tiny-house-with-downstairs-master-bedroom/"    ><img src="https://scdhub.org/wp-content/uploads/2017/07/astounding-tiny-house-with-downstairs-master-bedroom-150x150.jpg" alt="Astounding Tiny House With Downstairs Master Bedroom" title="Astounding Tiny House With Downstairs Master Bedroom" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Astounding Tiny House With Downstairs Master Bedroom</span></a></li><li><a href="https://scdhub.org/2017/06/28/tiny-homes/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/dignity-roller-pods-150x150.jpg" alt="Tiny Homes and Roller Pods Gain Momentum" title="Tiny Homes and Roller Pods Gain Momentum" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Tiny Homes and Roller Pods Gain Momentum</span></a></li><li><a href="https://scdhub.org/2017/12/29/woman-carries-bucket-of-water-on-her-head-during-paris-marathon/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/woman-carries-bucket-of-water-on-150x150.jpg" alt="Woman Carries Bucket of Water On Her Head During Paris Marathon" title="Woman Carries Bucket of Water On Her Head During Paris Marathon" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Woman Carries Bucket of Water On Her Head During&hellip;</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/Eu6QmTZolu4?feature=oembed] 
+
+14 villages work together to mold 30000 clay bricks each to be used for the construction of a school, teacher houses and bathrooms. The head master (princip&#8230;

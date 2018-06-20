@@ -1,0 +1,18 @@
+---
+title: Thailand-Surviving The Tsunami.mov
+author: admin
+type: post
+date: 2008-01-30T02:24:51+00:00
+excerpt: https://www.youtube.com/watch?v=2khbNKwbNBE
+url: /2008/01/30/thailand-surviving-the-tsunami-mov/
+ts_article_views:
+  - "295"
+  - "295"
+  - "295"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2017/12/26/1m-gallons-of-untreated-wastewater-spills-in-elizabeth-city/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/1m-gallons-of-untreated-wastewater-spills-in-elizabeth-city-150x150.jpg" alt="1M gallons of untreated wastewater spills in Elizabeth City" title="1M gallons of untreated wastewater spills in Elizabeth City" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">1M gallons of untreated wastewater spills in Elizabeth City</span></a></li><li><a href="https://scdhub.org/2017/12/29/walking-in-sabinas-shoes-world-vision/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/walking-in-sabinas-shoes-world-v-150x150.jpg" alt="Walking in Sabinas Shoes &#8211; World Vision" title="Walking in Sabinas Shoes &#8211; World Vision" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Walking in Sabinas Shoes &#8211; World Vision</span></a></li><li><a href="https://scdhub.org/2017/07/08/soneva-kiri-coral-garden-15-months-after-installation/"    ><img src="https://scdhub.org/wp-content/uploads/2017/07/maxresdefault-150x150.jpg" alt="Soneva Kiri Coral Garden 15 Months After Installation" title="Soneva Kiri Coral Garden 15 Months After Installation" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Soneva Kiri Coral Garden 15 Months After Installation</span></a></li><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li><li><a href="https://scdhub.org/2017/07/30/nuclear-testing-footage-music-by-gigi-shibabaw-washintu/"    ><img src="https://scdhub.org/wp-content/uploads/2017/07/nuclear-testing-footage-music-by-gigi-shibabaw-washintu-150x150.jpg" alt="Cultuer- Music &#8211; Ethiopian (Music by Gigi Shibabaw-Washintu)" title="Cultuer- Music &#8211; Ethiopian (Music by Gigi Shibabaw-Washintu)" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Cultuer- Music &#8211; Ethiopian (Music by Gigi&hellip;</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/2khbNKwbNBE?feature=oembed] 
+
+Thailand-Surviving The Tsunami Four months after the devastating Tsunami killed 225000 people and displaced over 5 million across 13 countries, filmmakers A&#8230;

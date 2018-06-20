@@ -1,0 +1,18 @@
+---
+title: Ferrocement Water Storage
+author: admin
+type: post
+date: 2008-01-30T02:22:28+00:00
+excerpt: http://www.youtube.com/watch?v=_jBrgVqyVLA
+url: /2008/01/30/ferrocement-water-storage/
+ts_article_views:
+  - "287"
+  - "287"
+  - "287"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2017/12/12/8704/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/8704-150x150.jpg" alt="Our Complete Rain Water System Explained" title="Our Complete Rain Water System Explained" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Our Complete Rain Water System Explained</span></a></li><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li><li><a href="https://scdhub.org/2017/08/11/kombucha-social-venture-health-beverage-company-community-success-prototype/"    ><img src="https://scdhub.org/wp-content/uploads/2017/08/kombucha-social-venture-health-beverage-company-community-success-prototype-150x150.jpg" alt="Kombucha Social Venture Health Beverage Company Community Success Prototype" title="Kombucha Social Venture Health Beverage Company Community Success Prototype" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Kombucha Social Venture Health Beverage Company&hellip;</span></a></li><li><a href="https://scdhub.org/2017/12/10/underground-concrete-cistern-installation-overview/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/underground-concrete-cistern-ins-150x150.jpg" alt="Underground concrete cistern installation overview" title="Underground concrete cistern installation overview" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Underground concrete cistern installation overview</span></a></li><li><a href="https://scdhub.org/2017/10/14/seqwater-explains-surface-water-a-water-source-option/"    ><img src="https://scdhub.org/wp-content/uploads/2017/10/seqwater-explains-surface-water-8211-a-water-source-option-150x150.jpg" alt="Seqwater explains: Surface water &#8211; a water source option" title="Seqwater explains: Surface water &#8211; a water source option" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Seqwater explains: Surface water &#8211; a water&hellip;</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/_jBrgVqyVLA?feature=oembed] 
+
+This is a ferrocement rainwater storage tank built at my off-grid cabin in South Carolina. The tank was built in 3 continuous days by the technologists in th&#8230;

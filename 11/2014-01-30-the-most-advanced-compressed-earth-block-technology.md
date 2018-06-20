@@ -1,0 +1,19 @@
+---
+title: The most Advanced Compressed Earth Block Technology!
+author: admin
+type: post
+date: 2014-01-30T02:31:13+00:00
+excerpt: http://www.youtube.com/watch?v=c9cDy9XkXPw
+url: /2014/01/30/the-most-advanced-compressed-earth-block-technology/
+featured_image: /wp-content/uploads/2017/05/the-most-advanced-compressed-ear.jpg
+ts_article_views:
+  - "166"
+  - "166"
+  - "166"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li><li><a href="https://scdhub.org/2017/06/02/fumble-bumble-a-do-able-native-bee-survival-plan-for-cities/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/Screen-Shot-2017-07-19-at-5.42.53-PM-150x150.png" alt="Our Bees, Our Food, Our World" title="Our Bees, Our Food, Our World" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Our Bees, Our Food, Our World</span></a></li><li><a href="https://scdhub.org/2017/12/20/how-to-fix-a-running-toilet-3-most-common-problems/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/how-to-fix-a-running-toilet-3-mo-150x150.jpg" alt="How to Fix a Running Toilet &#8211; 3 Most Common Problems" title="How to Fix a Running Toilet &#8211; 3 Most Common Problems" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">How to Fix a Running Toilet &#8211; 3 Most Common Problems</span></a></li><li><a href="https://scdhub.org/2017/07/05/heavy-light-fabric-formed-concrete-structures-building-technology/"    ><img src="https://scdhub.org/wp-content/uploads/2017/07/heavy-light-8211-fabric-formed-concrete-structures-building-technology-150x150.jpg" alt="Heavy Light &#8211; Fabric Formed Concrete Structures : Building Technology" title="Heavy Light &#8211; Fabric Formed Concrete Structures : Building Technology" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Heavy Light &#8211; Fabric Formed Concrete&hellip;</span></a></li><li><a href="https://scdhub.org/2017/12/12/rainwater-harvesting-combined-with-slow-sand-filter/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/rainwater-harvesting-combined-wi-150x150.jpg" alt="rainwater harvesting combined with slow sand filter" title="rainwater harvesting combined with slow sand filter" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">rainwater harvesting combined with slow sand filter</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/c9cDy9XkXPw?feature=oembed] 
+
+The new Vermeer BP714, producing perfectly dimensioned earth blocks with strengths exceeding concrete! See for yourself!

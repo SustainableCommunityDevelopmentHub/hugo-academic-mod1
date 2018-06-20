@@ -1,0 +1,18 @@
+---
+title: 'Part 1: Water Harvesting and Biodiversity: Sustainably Reveg'
+author: admin
+type: post
+date: 2014-01-30T02:32:31+00:00
+excerpt: http://www.youtube.com/watch?v=6kiH4DOFDQI
+url: /2014/01/30/part-1-water-harvesting-and-biodiversity-sustainably-reveg/
+ts_article_views:
+  - "189"
+  - "189"
+  - "189"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/17-sdgs/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="17 SDGs" title="17 SDGs" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">17 SDGs</span></a></li><li><a href="https://scdhub.org/2017/06/11/lead-contamination-beyond-flint-drinking-water-and-childrens-health/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/Screen-Shot-2017-06-10-at-10.17.39-PM-150x150.png" alt="Lead Contamination Beyond Flint: Drinking Water and Children&#8217;s Health" title="Lead Contamination Beyond Flint: Drinking Water and Children&#8217;s Health" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Lead Contamination Beyond Flint: Drinking Water and&hellip;</span></a></li><li><a href="https://scdhub.org/2017/06/11/royate-hill-community-orchard-permaculture-allotment-bristol-uk/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/royate-hill-community-orchard-038-permaculture-allotment-bristol-uk-150x150.jpg" alt="Royate Hill Community Orchard &#038; Permaculture Allotment, Bristol, UK" title="Royate Hill Community Orchard &#038; Permaculture Allotment, Bristol, UK" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Royate Hill Community Orchard &#038; Permaculture&hellip;</span></a></li><li><a href="https://scdhub.org/2017/12/12/rainwater-harvesting-combined-with-slow-sand-filter/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/rainwater-harvesting-combined-wi-150x150.jpg" alt="rainwater harvesting combined with slow sand filter" title="rainwater harvesting combined with slow sand filter" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">rainwater harvesting combined with slow sand filter</span></a></li><li><a href="https://scdhub.org/2017/12/10/underground-concrete-cistern-installation-overview/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/underground-concrete-cistern-ins-150x150.jpg" alt="Underground concrete cistern installation overview" title="Underground concrete cistern installation overview" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Underground concrete cistern installation overview</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/6kiH4DOFDQI?feature=oembed] 
+
+This episode features Brad Lancaster, author of Rainwater Harvesting for Drylands. Part 1 presents an overview of permaculture techniques coupled with Univer&#8230;

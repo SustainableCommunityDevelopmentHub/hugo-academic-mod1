@@ -1,0 +1,22 @@
+---
+title: DAXU, China, Stoves designed to burn crop waste – Ashden Award winner
+author: admin
+type: post
+date: 2014-01-30T02:31:52+00:00
+excerpt: http://www.youtube.com/watch?v=x65M9zX4gAo
+url: /2014/01/30/daxu-china-stoves-designed-to-burn-crop-waste-ashden-award-winner/
+ts_article_views:
+  - "208"
+  - "208"
+  - "208"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li><li><a href="https://scdhub.org/2017/12/29/walking-in-sabinas-shoes-world-vision/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/walking-in-sabinas-shoes-world-v-150x150.jpg" alt="Walking in Sabinas Shoes &#8211; World Vision" title="Walking in Sabinas Shoes &#8211; World Vision" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Walking in Sabinas Shoes &#8211; World Vision</span></a></li><li><a href="https://scdhub.org/2017/12/11/halogen-to-led-lighting-upgrade/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/halogen-to-led-lighting-upgrade-1-150x150.jpg" alt="Halogen to LED Lighting Upgrade" title="Halogen to LED Lighting Upgrade" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Halogen to LED Lighting Upgrade</span></a></li><li><a href="https://scdhub.org/2018/01/06/sanitation-in-emergencies/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Sanitation in Emergencies" title="Sanitation in Emergencies" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Sanitation in Emergencies</span></a></li><li><a href="https://scdhub.org/2017/07/28/8006/"    ><img src="https://scdhub.org/wp-content/uploads/2017/07/hqdefault-150x150.jpg" alt="Music" title="Music" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Music</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/x65M9zX4gAo?feature=oembed] 
+
+Beijing Shenzhou Daxu Bio-energy Technology Company Ltd (Daxu) has succeeded in developing an innovative stove design that replaces coal by burning widely available crop waste as well as burning wood much more efficiently. Most families in China still cook using stoves that burn coal or wood which has led to severe deforestation and dangerous levels of indoor air pollution, particularly from coal use. Crop waste is widely available in China yet very few stove designs have been able to burn this waste effectively. The Daxu stove is not only designed to burn crop waste, either loose or in briquettes, it is also 40% efficient, produces hardly any smoke, cuts cooking and heating costs by 50% and, if it replaces a traditional coal burning stove, it can saves around eight tonnes of CO2 emissions per year. With its two hot plates, it also allows families to cook a stir-fry dish and steamed rice at the same time. Some Daxu stove models also come with a back boiler which provides hot running water and heating to rural families, often for the first time. It is hardly surprising that since September last year, 25,000 models have been sold, with 10,000 sold in the first three months of 2007. There is enormous potential for introducing this technology throughout China, since over 20 million wood and coal stoves are sold each year.
+  
+Category
+  
+Nonprofits & Activism

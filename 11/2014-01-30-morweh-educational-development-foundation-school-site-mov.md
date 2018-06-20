@@ -1,0 +1,19 @@
+---
+title: Morweh Educational Development Foundation School Site.MOV
+author: admin
+type: post
+date: 2014-01-30T02:29:51+00:00
+excerpt: http://www.youtube.com/watch?v=YHMK_mhLh-w
+url: /2014/01/30/morweh-educational-development-foundation-school-site-mov/
+featured_image: /wp-content/uploads/2017/05/morweh-educational-development-f.jpg
+ts_article_views:
+  - "240"
+  - "240"
+  - "240"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li><li><a href="https://scdhub.org/2017/07/24/tiny-homestealth-camperconversion-van-built-in-180-hours/"    ><img src="https://scdhub.org/wp-content/uploads/2017/07/tiny-home-stealth-camper-conversion-van-built-in-180-hours-150x150.jpg" alt="Tiny Home/Stealth Camper/Conversion Van Built In 180 Hours" title="Tiny Home/Stealth Camper/Conversion Van Built In 180 Hours" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Tiny Home/Stealth Camper/Conversion Van Built In 180 Hours</span></a></li><li><a href="https://scdhub.org/2017/12/10/gabon-advanced-school-of-theology-the-water-cistern-is-done/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/gabon-advanced-school-of-theolog-150x150.jpg" alt="Gabon Advanced School of Theology &#8211; The Water Cistern is Done !" title="Gabon Advanced School of Theology &#8211; The Water Cistern is Done !" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Gabon Advanced School of Theology &#8211; The Water&hellip;</span></a></li><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2017/06/27/david-western-who-owns-wildlife/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/david_western_amboseli_masaai-150x150.jpeg" alt="David Western: &#8220;Who Owns Wildlife?&#8221;" title="David Western: &#8220;Who Owns Wildlife?&#8221;" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">David Western: &#8220;Who Owns Wildlife?&#8221;</span></a></li><li><a href="https://scdhub.org/2018/01/06/sanitation-in-emergencies/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Sanitation in Emergencies" title="Sanitation in Emergencies" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Sanitation in Emergencies</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/YHMK_mhLh-w?feature=oembed]
+
+This is the construction site for a new school being constructed by the Morweh Educational Development Foundation. When completed the campus will provide aff&#8230;

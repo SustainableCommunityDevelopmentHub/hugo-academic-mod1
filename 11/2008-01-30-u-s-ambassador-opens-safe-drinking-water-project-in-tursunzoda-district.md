@@ -1,0 +1,18 @@
+---
+title: U. S. AMBASSADOR OPENS SAFE DRINKING WATER PROJECT IN TURSUNZODA DISTRICT
+author: admin
+type: post
+date: 2008-01-30T02:24:49+00:00
+excerpt: https://www.youtube.com/watch?v=qBTNrGyRT2s
+url: /2008/01/30/u-s-ambassador-opens-safe-drinking-water-project-in-tursunzoda-district/
+ts_article_views:
+  - "163"
+  - "163"
+  - "163"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2017/12/10/water-chlorine-maintenance-program/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/water-chlorine-maintenance-progr-150x150.jpg" alt="Water Chlorine Maintenance Program" title="Water Chlorine Maintenance Program" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Water Chlorine Maintenance Program</span></a></li><li><a href="https://scdhub.org/2017/06/11/earths-keepers-philadelphia-orchard-project/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/earth-8217-s-keepers-philadelphia-orchard-project-150x150.jpg" alt="Earth&#8217;s Keepers Philadelphia Orchard Project" title="Earth&#8217;s Keepers Philadelphia Orchard Project" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Earth&#8217;s Keepers Philadelphia Orchard Project</span></a></li><li><a href="https://scdhub.org/2017/06/11/lead-contamination-beyond-flint-drinking-water-and-childrens-health/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/Screen-Shot-2017-06-10-at-10.17.39-PM-150x150.png" alt="Lead Contamination Beyond Flint: Drinking Water and Children&#8217;s Health" title="Lead Contamination Beyond Flint: Drinking Water and Children&#8217;s Health" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Lead Contamination Beyond Flint: Drinking Water and&hellip;</span></a></li><li><a href="https://scdhub.org/2017/09/13/nordic-urban-ways-implementing-the-new-urban-agenda/"    ><img src="https://scdhub.org/wp-content/uploads/2017/09/nordic-urban-ways-implementing-the-new-urban-agenda-150x150.jpg" alt="Nordic Urban Ways – Implementing the New Urban Agenda" title="Nordic Urban Ways – Implementing the New Urban Agenda" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Nordic Urban Ways – Implementing the New Urban Agenda</span></a></li><li><a href="https://scdhub.org/2017/12/29/women-and-water-a-video-by-water-for-people-3/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/women-and-water-a-video-by-water-150x150.jpg" alt="Women and Water &#8211; a Video by Water For People" title="Women and Water &#8211; a Video by Water For People" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Women and Water &#8211; a Video by Water For People</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/qBTNrGyRT2s?feature=oembed] 
+
+Pakhtaobod Village, Tajikistan, December 6, 2011 &#8212; U.S. Ambassador Ken Gross and Tursunzoda district Chairperson Davlatshoh Gulmamadov participated in the o&#8230;

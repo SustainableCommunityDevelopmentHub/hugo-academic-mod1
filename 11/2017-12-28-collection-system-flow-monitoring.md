@@ -1,0 +1,29 @@
+---
+title: Collection system flow monitoring
+author: Greg Willson
+type: post
+date: 2017-12-28T16:32:56+00:00
+url: /2017/12/28/collection-system-flow-monitoring/
+featured_image: /wp-content/uploads/2017/12/collection-system-flow-monitorin.jpg
+ampforwp-amp-on-off:
+  - default
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li><li><a href="https://scdhub.org/2018/01/06/sanitation-in-emergencies/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Sanitation in Emergencies" title="Sanitation in Emergencies" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Sanitation in Emergencies</span></a></li><li><a href="https://scdhub.org/2017/12/21/decentralised-sanitation-dewats-animation/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/Screen-Shot-2017-12-21-at-4.00.37-PM-150x150.png" alt="Decentralised Sanitation &#8211; DEWATS Animation" title="Decentralised Sanitation &#8211; DEWATS Animation" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Decentralised Sanitation &#8211; DEWATS Animation</span></a></li><li><a href="https://scdhub.org/2017/10/21/conventional-primary-wastewater-treatment/"    ><img src="https://scdhub.org/wp-content/uploads/2017/10/conventional-primary-wastewater-treatment-150x150.jpg" alt="conventional primary wastewater treatment" title="conventional primary wastewater treatment" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">conventional primary wastewater treatment</span></a></li><li><a href="https://scdhub.org/2017/12/26/1m-gallons-of-untreated-wastewater-spills-in-elizabeth-city/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/1m-gallons-of-untreated-wastewater-spills-in-elizabeth-city-150x150.jpg" alt="1M gallons of untreated wastewater spills in Elizabeth City" title="1M gallons of untreated wastewater spills in Elizabeth City" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">1M gallons of untreated wastewater spills in Elizabeth City</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+<iframe width="600" height="338" src="https://www.youtube.com/embed/LSEwbvjb8s0?feature=oembed" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+This resource presents the key components of a wastewater collection system, reasons why flow monitoring in the system is important.
+
+<img class="alignnone size-medium wp-image-8932" src="https://scdhub.org/wp-content/uploads/2017/12/Selección_037-300x219.png" alt="" width="300" height="219" srcset="https://scdhub.org/wp-content/uploads/2017/12/Selección_037-300x219.png 300w, https://scdhub.org/wp-content/uploads/2017/12/Selección_037.png 654w" sizes="(max-width: 300px) 100vw, 300px" />
+
+**Infiltration/Inflow** (**I/I**) causes dilution in [sanitary sewers][1]. Dilution of sewage decreases the efficiency of treatment, and may cause sewage volumes to exceed design capacity. Although inflow is technically different from infiltration, it may be difficult to determine which is causing dilution problems in inaccessible sewers. The [United States Environmental Protection Agency][2] defines the term infiltration/inflow as combined contributions from both.<sup id="cite_ref-1" class="reference"></sup>
+
+<img class="alignnone size-medium wp-image-8933" src="https://scdhub.org/wp-content/uploads/2017/12/Selección_038-300x219.png" alt="" width="300" height="219" srcset="https://scdhub.org/wp-content/uploads/2017/12/Selección_038-300x219.png 300w, https://scdhub.org/wp-content/uploads/2017/12/Selección_038.png 655w" sizes="(max-width: 300px) 100vw, 300px" />
+
+<img class="alignnone size-medium wp-image-8934" src="https://scdhub.org/wp-content/uploads/2017/12/Selección_041-300x218.png" alt="" width="300" height="218" srcset="https://scdhub.org/wp-content/uploads/2017/12/Selección_041-300x218.png 300w, https://scdhub.org/wp-content/uploads/2017/12/Selección_041.png 647w" sizes="(max-width: 300px) 100vw, 300px" />
+
+<img class="alignnone size-medium wp-image-8935" src="https://scdhub.org/wp-content/uploads/2017/12/Selección_039-300x222.png" alt="" width="300" height="222" srcset="https://scdhub.org/wp-content/uploads/2017/12/Selección_039-300x222.png 300w, https://scdhub.org/wp-content/uploads/2017/12/Selección_039.png 652w" sizes="(max-width: 300px) 100vw, 300px" />
+
+ [1]: https://en.wikipedia.org/wiki/Sanitary_sewer "Sanitary sewer"
+ [2]: https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency "United States Environmental Protection Agency"

@@ -1,0 +1,19 @@
+---
+title: 'Lemelson-MIT InvenTeams: Portable Water Treatment for Mexico'
+author: admin
+type: post
+date: 2014-01-30T02:34:20+00:00
+excerpt: http://www.youtube.com/watch?v=nBN4hYJLY_o
+url: /2014/01/30/lemelson-mit-inventeams-portable-water-treatment-for-mexico/
+featured_image: /wp-content/uploads/2014/01/Screenshot-2016-04-22-21.57.22-1.png
+ts_article_views:
+  - "267"
+  - "267"
+  - "267"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li><li><a href="https://scdhub.org/2017/09/13/nordic-urban-ways-implementing-the-new-urban-agenda/"    ><img src="https://scdhub.org/wp-content/uploads/2017/09/nordic-urban-ways-implementing-the-new-urban-agenda-150x150.jpg" alt="Nordic Urban Ways – Implementing the New Urban Agenda" title="Nordic Urban Ways – Implementing the New Urban Agenda" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Nordic Urban Ways – Implementing the New Urban Agenda</span></a></li><li><a href="https://scdhub.org/2017/07/30/nuclear-testing-footage-music-by-gigi-shibabaw-washintu/"    ><img src="https://scdhub.org/wp-content/uploads/2017/07/nuclear-testing-footage-music-by-gigi-shibabaw-washintu-150x150.jpg" alt="Cultuer- Music &#8211; Ethiopian (Music by Gigi Shibabaw-Washintu)" title="Cultuer- Music &#8211; Ethiopian (Music by Gigi Shibabaw-Washintu)" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Cultuer- Music &#8211; Ethiopian (Music by Gigi&hellip;</span></a></li><li><a href="https://scdhub.org/2017/07/12/woody-guthrie-voice-of-the-common-man/"    ><img src="https://scdhub.org/wp-content/uploads/2017/07/woody-guthrie-voice-of-the-common-man-150x150.jpg" alt="Woody Guthrie: Voice of the Common Man" title="Woody Guthrie: Voice of the Common Man" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Woody Guthrie: Voice of the Common Man</span></a></li><li><a href="https://scdhub.org/2017/10/21/conventional-primary-wastewater-treatment/"    ><img src="https://scdhub.org/wp-content/uploads/2017/10/conventional-primary-wastewater-treatment-150x150.jpg" alt="conventional primary wastewater treatment" title="conventional primary wastewater treatment" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">conventional primary wastewater treatment</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/nBN4hYJLY_o?feature=oembed] 
+
+2006 Nerinx Hall HS InvenTeam (Webster Groves, MO) demonstrate their invention: a portable water treatment device for a rural Mexican village.

@@ -1,0 +1,18 @@
+---
+title: 'e2 energy %u2014 Coal & Nuclear: Problem or Solution? podcast'
+author: admin
+type: post
+date: 2008-01-30T02:26:52+00:00
+excerpt: https://www.youtube.com/watch?v=OkMJqO8iwcE
+url: /2008/01/30/e2-energy-u2014-coal-nuclear-problem-or-solution-podcast/
+ts_article_views:
+  - "460"
+  - "460"
+  - "460"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2017/07/30/nuclear-testing-footage-music-by-gigi-shibabaw-washintu/"    ><img src="https://scdhub.org/wp-content/uploads/2017/07/nuclear-testing-footage-music-by-gigi-shibabaw-washintu-150x150.jpg" alt="Cultuer- Music &#8211; Ethiopian (Music by Gigi Shibabaw-Washintu)" title="Cultuer- Music &#8211; Ethiopian (Music by Gigi Shibabaw-Washintu)" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Cultuer- Music &#8211; Ethiopian (Music by Gigi&hellip;</span></a></li><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li><li><a href="https://scdhub.org/2017/12/29/walking-in-sabinas-shoes-world-vision/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/walking-in-sabinas-shoes-world-v-150x150.jpg" alt="Walking in Sabinas Shoes &#8211; World Vision" title="Walking in Sabinas Shoes &#8211; World Vision" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Walking in Sabinas Shoes &#8211; World Vision</span></a></li><li><a href="https://scdhub.org/2017/06/11/lead-contamination-beyond-flint-drinking-water-and-childrens-health/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/Screen-Shot-2017-06-10-at-10.17.39-PM-150x150.png" alt="Lead Contamination Beyond Flint: Drinking Water and Children&#8217;s Health" title="Lead Contamination Beyond Flint: Drinking Water and Children&#8217;s Health" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Lead Contamination Beyond Flint: Drinking Water and&hellip;</span></a></li><li><a href="https://scdhub.org/2017/06/22/satisficing/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/satisficing-150x150.jpg" alt="Satisficing: when the optimal solution cannot be determined" title="Satisficing: when the optimal solution cannot be determined" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Satisficing: when the optimal solution cannot be determined</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/OkMJqO8iwcE?feature=oembed] 
+
+This is the fifth in a series of video podcasts for the PBS series e2 energy. Each podcast takes you beyond the episodes and deeper into the world of alterna&#8230;

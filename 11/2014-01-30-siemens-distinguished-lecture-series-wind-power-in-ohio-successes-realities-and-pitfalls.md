@@ -1,0 +1,18 @@
+---
+title: 'Siemens Distinguished Lecture Series – Wind Power in Ohio: Successes, Realities and Pitfalls'
+author: admin
+type: post
+date: 2014-01-30T02:29:49+00:00
+excerpt: http://www.youtube.com/watch?v=byR3yR95T2U
+url: /2014/01/30/siemens-distinguished-lecture-series-wind-power-in-ohio-successes-realities-and-pitfalls/
+ts_article_views:
+  - "300"
+  - "300"
+  - "300"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li><li><a href="https://scdhub.org/2017/12/26/1m-gallons-of-untreated-wastewater-spills-in-elizabeth-city/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/1m-gallons-of-untreated-wastewater-spills-in-elizabeth-city-150x150.jpg" alt="1M gallons of untreated wastewater spills in Elizabeth City" title="1M gallons of untreated wastewater spills in Elizabeth City" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">1M gallons of untreated wastewater spills in Elizabeth City</span></a></li><li><a href="https://scdhub.org/2017/09/13/sbirt-drug-and-alcohol-screening-and-support/"    ><img src="https://scdhub.org/wp-content/uploads/2017/09/sbirt-drug-and-alcohol-screening-150x150.jpg" alt="SBIRT drug and alcohol screening and support" title="SBIRT drug and alcohol screening and support" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">SBIRT drug and alcohol screening and support</span></a></li><li><a href="https://scdhub.org/2017/08/01/the-big-conservation-lie/"    ><img src="https://scdhub.org/wp-content/uploads/2017/08/8049-150x150.jpg" alt="Mordecai Ogada, Director of Conservation Solutions Afrika – The Big Conservation Lie" title="Mordecai Ogada, Director of Conservation Solutions Afrika – The Big Conservation Lie" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Mordecai Ogada, Director of Conservation Solutions&hellip;</span></a></li><li><a href="https://scdhub.org/2017/12/10/underground-concrete-cistern-installation-overview/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/underground-concrete-cistern-ins-150x150.jpg" alt="Underground concrete cistern installation overview" title="Underground concrete cistern installation overview" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Underground concrete cistern installation overview</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/byR3yR95T2U?feature=oembed]
+
+&#8220;Wind Power in Ohio: Successes, Realities and Pitfalls&#8221; Friday, November 15, 2013 The Holden University Center of Lakeland Community College Lakeland welcome&#8230;

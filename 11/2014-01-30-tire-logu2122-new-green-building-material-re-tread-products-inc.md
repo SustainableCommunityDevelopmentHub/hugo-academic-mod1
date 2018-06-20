@@ -1,0 +1,18 @@
+---
+title: Tire Log 2122 New Green Building Material – Re-Tread Products, Inc.
+author: admin
+type: post
+date: 2014-01-30T02:30:08+00:00
+excerpt: http://www.youtube.com/watch?v=IJnB1498qCQ
+url: /2014/01/30/tire-logu2122-new-green-building-material-re-tread-products-inc/
+ts_article_views:
+  - "231"
+  - "231"
+  - "231"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2017/12/12/rainwater-harvesting-combined-with-slow-sand-filter/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/rainwater-harvesting-combined-wi-150x150.jpg" alt="rainwater harvesting combined with slow sand filter" title="rainwater harvesting combined with slow sand filter" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">rainwater harvesting combined with slow sand filter</span></a></li><li><a href="https://scdhub.org/2017/05/18/unemployed-transform-used-tires-into-shoes-at-detroit-treads/"    ><img src="https://scdhub.org/wp-content/uploads/2017/05/unemployed-transform-used-tires-into-shoes-at-detroit-treads-150x150.jpg" alt="Empowered Transform Used Tires Into Shoes At Detroit Treads" title="Empowered Transform Used Tires Into Shoes At Detroit Treads" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Empowered Transform Used Tires Into Shoes At Detroit Treads</span></a></li><li><a href="https://scdhub.org/2017/07/28/8006/"    ><img src="https://scdhub.org/wp-content/uploads/2017/07/hqdefault-150x150.jpg" alt="Music" title="Music" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Music</span></a></li><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li><li><a href="https://scdhub.org/2017/06/20/what-is-leed-leadership-in-energy-and-environmental-design/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/what-is-leed-leadership-in-energy-and-environmental-design-150x150.jpg" alt="What is LEED? Leadership in Energy and Environmental Design." title="What is LEED? Leadership in Energy and Environmental Design." width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">What is LEED? Leadership in Energy and Environmental Design.</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/IJnB1498qCQ?feature=oembed]
+
+RE-TREAD PRODUCTS Inc. (RTP) has developed a new building material made from recycled tires called the &#8220;Tire Log%u2122&#8221;. The Tire Log%u2122 is a patented innovation ma&#8230;

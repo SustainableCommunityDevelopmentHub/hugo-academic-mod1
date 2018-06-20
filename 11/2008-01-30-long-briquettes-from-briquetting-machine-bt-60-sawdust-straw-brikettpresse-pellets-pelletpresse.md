@@ -1,0 +1,18 @@
+---
+title: long briquettes from briquetting machine BT-60 sawdust straw brikettpresse pellets, pelletpresse
+author: admin
+type: post
+date: 2008-01-30T02:23:40+00:00
+excerpt: http://www.youtube.com/watch?v=Gx-_5T2vcfo
+url: /2008/01/30/long-briquettes-from-briquetting-machine-bt-60-sawdust-straw-brikettpresse-pellets-pelletpresse/
+ts_article_views:
+  - "276"
+  - "276"
+  - "276"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li><li><a href="https://scdhub.org/2017/06/11/masanobu-fukuoka-how-to-make-clay-seed-balls/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/Screen-Shot-2017-06-10-at-8.22.36-PM-150x150.png" alt="Masanobu Fukuoka How to Make Clay Seed Balls" title="Masanobu Fukuoka How to Make Clay Seed Balls" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Masanobu Fukuoka How to Make Clay Seed Balls</span></a></li><li><a href="https://scdhub.org/2017/06/11/royate-hill-community-orchard-permaculture-allotment-bristol-uk/"    ><img src="https://scdhub.org/wp-content/uploads/2017/06/royate-hill-community-orchard-038-permaculture-allotment-bristol-uk-150x150.jpg" alt="Royate Hill Community Orchard &#038; Permaculture Allotment, Bristol, UK" title="Royate Hill Community Orchard &#038; Permaculture Allotment, Bristol, UK" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Royate Hill Community Orchard &#038; Permaculture&hellip;</span></a></li><li><a href="https://scdhub.org/2017/07/15/community-gardens-with-jim-embry-kentucky-life-ket/"    ><img src="https://scdhub.org/wp-content/uploads/2017/07/community-gardens-with-jim-embry-kentucky-life-ket-150x150.jpg" alt="Community Gardens with Jim Embry" title="Community Gardens with Jim Embry" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Community Gardens with Jim Embry</span></a></li><li><a href="https://scdhub.org/2017/12/12/tiny-house-plumbing-supply-water-lines/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/tiny-house-plumbing-supply-water-150x150.jpg" alt="Tiny House Plumbing &#8211; Supply Water Lines" title="Tiny House Plumbing &#8211; Supply Water Lines" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Tiny House Plumbing &#8211; Supply Water Lines</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/Gx-_5T2vcfo?feature=oembed] 
+
+Pellets and briquettes from our super briquetting machine BT-60, material &#8211; sawdust from hardwood trees &#8211; for example poplar, beech, walnut. Production of ou&#8230;

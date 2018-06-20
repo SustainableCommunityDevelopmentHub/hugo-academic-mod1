@@ -1,0 +1,18 @@
+---
+title: Wind Turbines in Nicaragua
+author: admin
+type: post
+date: 2008-01-30T02:28:43+00:00
+excerpt: https://www.youtube.com/watch?v=zP1j57T01uM
+url: /2008/01/30/wind-turbines-in-nicaragua/
+ts_article_views:
+  - "352"
+  - "352"
+  - "352"
+crp_related_posts:
+  - '<div class="crp_related "><h3>Related Posts:</h3><ul><li><a href="https://scdhub.org/2017/12/25/wastewater-treatment-and-biosolids-management/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/wastewater-treatment-and-biosoli-150x150.jpg" alt="Wastewater treatment and Biosolids management" title="Wastewater treatment and Biosolids management" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Wastewater treatment and Biosolids management</span></a></li><li><a href="https://scdhub.org/2018/01/06/household-and-neighborhood-sanitation-infrastructures-excreta-wastewater-disposal-in-developing-countries/"    ><img src="https://scdhub.org/wp-content/plugins/contextual-related-posts/default.png" alt="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" title="Household and neighborhood Sanitation Infrastructures: Excreta, wastewater disposal in developing countries" width="150" height="150" class="crp_thumb crp_default" /><span class="crp_title">Household and neighborhood Sanitation&hellip;</span></a></li><li><a href="https://scdhub.org/2017/12/29/walking-in-sabinas-shoes-world-vision/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/walking-in-sabinas-shoes-world-v-150x150.jpg" alt="Walking in Sabinas Shoes &#8211; World Vision" title="Walking in Sabinas Shoes &#8211; World Vision" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Walking in Sabinas Shoes &#8211; World Vision</span></a></li><li><a href="https://scdhub.org/2017/10/01/diy-18650-cell-power-wall/"    ><img src="https://scdhub.org/wp-content/uploads/2017/10/Screen-Shot-2017-09-30-at-6.36.35-PM-150x150.png" alt="Home Brewed Power Walls" title="Home Brewed Power Walls" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Home Brewed Power Walls</span></a></li><li><a href="https://scdhub.org/2017/07/24/tiny-homestealth-camperconversion-van-built-in-180-hours/"    ><img src="https://scdhub.org/wp-content/uploads/2017/07/tiny-home-stealth-camper-conversion-van-built-in-180-hours-150x150.jpg" alt="Tiny Home/Stealth Camper/Conversion Van Built In 180 Hours" title="Tiny Home/Stealth Camper/Conversion Van Built In 180 Hours" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">Tiny Home/Stealth Camper/Conversion Van Built In 180 Hours</span></a></li><li><a href="https://scdhub.org/2017/12/10/15000-gallon-rainwater-harvesting-system/"    ><img src="https://scdhub.org/wp-content/uploads/2017/12/15000-gallon-rainwater-harvestin-150x150.jpg" alt="15,000 Gallon Rainwater Harvesting System" title="15,000 Gallon Rainwater Harvesting System" width="150" height="150" class="crp_thumb crp_featured" /><span class="crp_title">15,000 Gallon Rainwater Harvesting System</span></a></li></ul><div class="crp_clear"></div></div>'
+
+---
+[https://www.youtube.com/embed/zP1j57T01uM?feature=oembed] 
+
+On the way to our tree farms, we drive through these wind farms. The Nicaraguan government has put an emphasis on utilizing alternative energy sources and th&#8230;
