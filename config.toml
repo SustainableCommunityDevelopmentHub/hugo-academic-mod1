@@ -285,10 +285,10 @@ enableGitInfo = false
   parent= "Services"
 
 [[menu.main]]
-  name = "Learing Program"
+  name = "Membership"
   url = "/members"
   weight = 23
-  parent= "learing-program"
+  parent= "Services"
 
 [[menu.main]]
   name = "Sponsor"
